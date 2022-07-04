@@ -29,7 +29,7 @@ def solution(n, lost, reserve):
 
 #80퍼
 
-------------------
+-----------------
 
 def solution(n, lost, reserve):
     answer = 0
